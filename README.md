@@ -18,4 +18,4 @@ predictions work in real-world scenarios.
 
 ## Author
 Karan Kumar  
-BS-MS Student, IISER Mohali
+
