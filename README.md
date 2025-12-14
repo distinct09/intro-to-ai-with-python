@@ -1,4 +1,4 @@
-# intro-to-ai-with-python
+# intro-to-AI-with-python
 Introductory artificial intelligence projects using Python, focusing on data, models, and predictions.
 
 This repository contains beginner-friendly artificial intelligence projects
